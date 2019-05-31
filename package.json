@@ -1,0 +1,15 @@
+{
+  "name": "11ty-yaml-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --config=eleventy.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "~0.8.3",
+    "js-yaml": "~3.13.1"
+  }
+}
